@@ -18,8 +18,8 @@ st.set_page_config(
 )
 
 # Main page heading
-st.title("Car Engine Detection")
-st.caption("developed by BlackDasher for my GOD")
+st.title("AI assisted detection")
+st.caption("Developed by EOT AS")
 
 # Sidebar
 st.sidebar.header("ML Model Config")
